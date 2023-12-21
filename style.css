@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,200&display=swap');
+
+
+*{
+    margin: auto;
+    padding: auto;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.bg-shape{
+    background-color: black;
+    height: 100px;
+    margin-top: 2%;
+    margin: 2% 2%;
+    
+}
+.title-slogan{
+    margin-top: 4%;
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+    margin-left: 25%;
+    font-size: 33px;
+}
+.listof-ai{
+    margin-left: 100px;
+}
+
+.sites{
+    text-decoration: none;
+    font-size: 24px ;
+    color: black;
+    
+}
+
+/* 10web.io css */
+.firstwebsite{
+    margin-top: 15px;
+}
+.web1{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 40px;
+    text-decoration: none;
+    margin-left: 80px;
+    color: red;
+}
+
+.ioimage{
+   margin-left: 100px;
+   margin-bottom: 20px;
+}
+
+
+span{
+    color: blue;
+    font-weight: bolder;
+    font-size: 1.8cap;
+    
+}
+ 
